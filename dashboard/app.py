@@ -362,3 +362,100 @@ st.caption(
     "Educational analytics only. Clusters are exploratory statistical groups, "
     "not medical diagnoses or validated clinical risk predictions."
 )
+
+# Classification model comparison
+st.header("Classification Model Comparison")
+
+comparison_file = OUTPUT / "classification_model_comparison.csv"
+
+if comparison_file.exists():
+    comparison = pd.read_csv(comparison_file)
+
+    st.subheader("Model Performance Metrics")
+
+    col1, col2, col3 = st.columns(3)
+
+    ml_models = comparison[comparison["Model"] != "Baseline"]
+    best_model = ml_models.loc[ml_models["Macro_F1"].idxmax()]
+
+    col1.metric("Best ML Model", best_model["Model"])
+    col2.metric("Best ML Accuracy", f'{best_model["Accuracy"] * 100:.2f}%')
+    col3.metric("Best Macro F1", f'{best_model["Macro_F1"] * 100:.2f}%')
+
+    st.subheader("Accuracy Comparison")
+
+    accuracy_chart = px.bar(
+        comparison,
+        x="Model",
+        y="Accuracy",
+        color="Model",
+        text=comparison["Accuracy"].apply(lambda x: f"{x:.2%}"),
+        title="Classification Accuracy"
+    )
+    accuracy_chart.update_layout(yaxis_tickformat=".0%")
+    st.plotly_chart(accuracy_chart, use_container_width=True)
+
+    st.subheader("Balanced Accuracy and Macro F1")
+
+    score_data = comparison.melt(
+        id_vars="Model",
+        value_vars=["Balanced_Accuracy", "Macro_F1"],
+        var_name="Metric",
+        value_name="Score"
+    )
+
+    score_chart = px.bar(
+        score_data,
+        x="Model",
+        y="Score",
+        color="Metric",
+        barmode="group",
+        title="Balanced Accuracy vs Macro F1"
+    )
+    score_chart.update_layout(yaxis_tickformat=".0%")
+    st.plotly_chart(score_chart, use_container_width=True)
+
+    st.subheader("Detailed Classification Results")
+    st.dataframe(comparison, use_container_width=True)
+
+    st.info(
+        "Random Forest achieved the highest Macro F1 and balanced accuracy "
+        "among the four trained classifiers in this experiment. The majority-class "
+        "baseline has higher raw accuracy, so accuracy alone does not identify "
+        "the best-performing classifier."
+    )
+
+    st.warning(
+        "The target is visit status. These results measure performance on this "
+        "dataset and should not be interpreted as clinical predictions."
+    )
+
+else:
+    st.warning("Classification results not found. Run the model comparison script first.")
+
+# Random Forest confusion matrix
+st.subheader("Random Forest Confusion Matrix")
+
+confusion_file = OUTPUT / "random_forest_confusion_matrix.csv"
+
+if confusion_file.exists():
+    confusion = pd.read_csv(confusion_file, index_col=0)
+
+    heatmap = px.imshow(
+        confusion,
+        text_auto=True,
+        color_continuous_scale="Blues",
+        labels={
+            "x": "Predicted Visit Status",
+            "y": "Actual Visit Status",
+            "color": "Number of Records"
+        },
+        title="Random Forest Prediction Results"
+    )
+
+    st.plotly_chart(heatmap, use_container_width=True)
+
+    st.caption(
+        "Diagonal values represent correct predictions. "
+        "Off-diagonal values represent incorrect predictions."
+    )
