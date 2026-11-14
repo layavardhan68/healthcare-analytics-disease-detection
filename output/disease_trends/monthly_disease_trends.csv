@@ -1,0 +1,841 @@
+month,disease_category,diagnosis_count
+2024-01,Addiction,1881
+2024-01,Allergy,1958
+2024-01,Autoimmune Disorders,1961
+2024-01,Cardiac Electrophysiology,1800
+2024-01,Cardiovascular,1974
+2024-01,Congenital,1857
+2024-01,Dermatology,1964
+2024-01,Endocrine,1932
+2024-01,Endoscopy,1904
+2024-01,Gastrointestinal,1927
+2024-01,Geriatrics,1812
+2024-01,Hematology,1870
+2024-01,Hepatic,1961
+2024-01,Immunology,1953
+2024-01,Infectious,1856
+2024-01,Metabolic Disorders,1959
+2024-01,Musculoskeletal,1981
+2024-01,Neurological,1904
+2024-01,Neuromuscular,1894
+2024-01,Obstetrics,1966
+2024-01,Occupational Health,1881
+2024-01,Oncology,1965
+2024-01,Ophthalmology,1845
+2024-01,Oral,1841
+2024-01,Otolaryngology,1986
+2024-01,Pain Management,1985
+2024-01,Palliative,1889
+2024-01,Pediatrics,1924
+2024-01,Preventive,1918
+2024-01,Psychiatric,1988
+2024-01,Radiology,1909
+2024-01,Reconstructive,1892
+2024-01,Renal,2028
+2024-01,Reproductive - Female,1884
+2024-01,Reproductive - Male,1915
+2024-01,Respiratory,1856
+2024-01,Sleep Disorders,1944
+2024-01,Toxicology,1882
+2024-01,Trauma,1985
+2024-01,Urinary,1905
+2024-02,Addiction,1796
+2024-02,Allergy,1821
+2024-02,Autoimmune Disorders,1834
+2024-02,Cardiac Electrophysiology,1817
+2024-02,Cardiovascular,1857
+2024-02,Congenital,1909
+2024-02,Dermatology,1824
+2024-02,Endocrine,1832
+2024-02,Endoscopy,1756
+2024-02,Gastrointestinal,1824
+2024-02,Geriatrics,1780
+2024-02,Hematology,1807
+2024-02,Hepatic,1863
+2024-02,Immunology,1857
+2024-02,Infectious,1809
+2024-02,Metabolic Disorders,1847
+2024-02,Musculoskeletal,1929
+2024-02,Neurological,1816
+2024-02,Neuromuscular,1792
+2024-02,Obstetrics,1812
+2024-02,Occupational Health,1917
+2024-02,Oncology,1870
+2024-02,Ophthalmology,1783
+2024-02,Oral,1789
+2024-02,Otolaryngology,1825
+2024-02,Pain Management,1775
+2024-02,Palliative,1832
+2024-02,Pediatrics,1851
+2024-02,Preventive,1844
+2024-02,Psychiatric,1848
+2024-02,Radiology,1797
+2024-02,Reconstructive,1789
+2024-02,Renal,1747
+2024-02,Reproductive - Female,1838
+2024-02,Reproductive - Male,1755
+2024-02,Respiratory,1777
+2024-02,Sleep Disorders,1855
+2024-02,Toxicology,1781
+2024-02,Trauma,1933
+2024-02,Urinary,1790
+2024-03,Addiction,1903
+2024-03,Allergy,2001
+2024-03,Autoimmune Disorders,1908
+2024-03,Cardiac Electrophysiology,1891
+2024-03,Cardiovascular,2054
+2024-03,Congenital,1974
+2024-03,Dermatology,1918
+2024-03,Endocrine,1936
+2024-03,Endoscopy,1926
+2024-03,Gastrointestinal,1886
+2024-03,Geriatrics,1955
+2024-03,Hematology,1944
+2024-03,Hepatic,1875
+2024-03,Immunology,1963
+2024-03,Infectious,1968
+2024-03,Metabolic Disorders,1907
+2024-03,Musculoskeletal,1970
+2024-03,Neurological,1902
+2024-03,Neuromuscular,1923
+2024-03,Obstetrics,1902
+2024-03,Occupational Health,1957
+2024-03,Oncology,1991
+2024-03,Ophthalmology,1977
+2024-03,Oral,1936
+2024-03,Otolaryngology,1996
+2024-03,Pain Management,1863
+2024-03,Palliative,1978
+2024-03,Pediatrics,1872
+2024-03,Preventive,1977
+2024-03,Psychiatric,1902
+2024-03,Radiology,1946
+2024-03,Reconstructive,1928
+2024-03,Renal,1914
+2024-03,Reproductive - Female,1886
+2024-03,Reproductive - Male,2000
+2024-03,Respiratory,1945
+2024-03,Sleep Disorders,1907
+2024-03,Toxicology,1995
+2024-03,Trauma,1998
+2024-03,Urinary,1925
+2024-04,Addiction,1867
+2024-04,Allergy,1889
+2024-04,Autoimmune Disorders,1879
+2024-04,Cardiac Electrophysiology,1842
+2024-04,Cardiovascular,1909
+2024-04,Congenital,1933
+2024-04,Dermatology,1856
+2024-04,Endocrine,1925
+2024-04,Endoscopy,1906
+2024-04,Gastrointestinal,1934
+2024-04,Geriatrics,1919
+2024-04,Hematology,1854
+2024-04,Hepatic,1947
+2024-04,Immunology,1901
+2024-04,Infectious,1865
+2024-04,Metabolic Disorders,1852
+2024-04,Musculoskeletal,1842
+2024-04,Neurological,1895
+2024-04,Neuromuscular,1939
+2024-04,Obstetrics,1871
+2024-04,Occupational Health,1933
+2024-04,Oncology,1856
+2024-04,Ophthalmology,1848
+2024-04,Oral,1882
+2024-04,Otolaryngology,1839
+2024-04,Pain Management,1893
+2024-04,Palliative,1885
+2024-04,Pediatrics,1905
+2024-04,Preventive,1816
+2024-04,Psychiatric,1960
+2024-04,Radiology,1915
+2024-04,Reconstructive,1856
+2024-04,Renal,1908
+2024-04,Reproductive - Female,1881
+2024-04,Reproductive - Male,1930
+2024-04,Respiratory,1895
+2024-04,Sleep Disorders,1956
+2024-04,Toxicology,1894
+2024-04,Trauma,1990
+2024-04,Urinary,1855
+2024-05,Addiction,1896
+2024-05,Allergy,1937
+2024-05,Autoimmune Disorders,1993
+2024-05,Cardiac Electrophysiology,1991
+2024-05,Cardiovascular,1958
+2024-05,Congenital,1994
+2024-05,Dermatology,1919
+2024-05,Endocrine,2014
+2024-05,Endoscopy,2010
+2024-05,Gastrointestinal,1969
+2024-05,Geriatrics,1959
+2024-05,Hematology,1911
+2024-05,Hepatic,1870
+2024-05,Immunology,1845
+2024-05,Infectious,1959
+2024-05,Metabolic Disorders,1998
+2024-05,Musculoskeletal,1963
+2024-05,Neurological,1983
+2024-05,Neuromuscular,1982
+2024-05,Obstetrics,2006
+2024-05,Occupational Health,1883
+2024-05,Oncology,2011
+2024-05,Ophthalmology,1904
+2024-05,Oral,1831
+2024-05,Otolaryngology,1909
+2024-05,Pain Management,1880
+2024-05,Palliative,1930
+2024-05,Pediatrics,1991
+2024-05,Preventive,1936
+2024-05,Psychiatric,1955
+2024-05,Radiology,2032
+2024-05,Reconstructive,1868
+2024-05,Renal,1905
+2024-05,Reproductive - Female,1939
+2024-05,Reproductive - Male,1887
+2024-05,Respiratory,1998
+2024-05,Sleep Disorders,2000
+2024-05,Toxicology,1982
+2024-05,Trauma,1893
+2024-05,Urinary,1948
+2024-06,Addiction,1879
+2024-06,Allergy,1862
+2024-06,Autoimmune Disorders,1810
+2024-06,Cardiac Electrophysiology,1919
+2024-06,Cardiovascular,1908
+2024-06,Congenital,1785
+2024-06,Dermatology,1882
+2024-06,Endocrine,1908
+2024-06,Endoscopy,1830
+2024-06,Gastrointestinal,1874
+2024-06,Geriatrics,1829
+2024-06,Hematology,1909
+2024-06,Hepatic,1846
+2024-06,Immunology,1852
+2024-06,Infectious,1832
+2024-06,Metabolic Disorders,1891
+2024-06,Musculoskeletal,1861
+2024-06,Neurological,1857
+2024-06,Neuromuscular,1871
+2024-06,Obstetrics,1876
+2024-06,Occupational Health,1881
+2024-06,Oncology,1883
+2024-06,Ophthalmology,1909
+2024-06,Oral,1862
+2024-06,Otolaryngology,1868
+2024-06,Pain Management,1897
+2024-06,Palliative,1909
+2024-06,Pediatrics,1895
+2024-06,Preventive,1891
+2024-06,Psychiatric,1902
+2024-06,Radiology,1859
+2024-06,Reconstructive,1855
+2024-06,Renal,1871
+2024-06,Reproductive - Female,1846
+2024-06,Reproductive - Male,1922
+2024-06,Respiratory,1901
+2024-06,Sleep Disorders,1841
+2024-06,Toxicology,1912
+2024-06,Trauma,1890
+2024-06,Urinary,1860
+2024-07,Addiction,1855
+2024-07,Allergy,1923
+2024-07,Autoimmune Disorders,1944
+2024-07,Cardiac Electrophysiology,1937
+2024-07,Cardiovascular,1879
+2024-07,Congenital,1946
+2024-07,Dermatology,1948
+2024-07,Endocrine,1972
+2024-07,Endoscopy,1925
+2024-07,Gastrointestinal,1891
+2024-07,Geriatrics,1943
+2024-07,Hematology,1953
+2024-07,Hepatic,1893
+2024-07,Immunology,1986
+2024-07,Infectious,1870
+2024-07,Metabolic Disorders,1919
+2024-07,Musculoskeletal,1911
+2024-07,Neurological,2030
+2024-07,Neuromuscular,1923
+2024-07,Obstetrics,1931
+2024-07,Occupational Health,1907
+2024-07,Oncology,1954
+2024-07,Ophthalmology,1964
+2024-07,Oral,1998
+2024-07,Otolaryngology,1949
+2024-07,Pain Management,1849
+2024-07,Palliative,1913
+2024-07,Pediatrics,1929
+2024-07,Preventive,1980
+2024-07,Psychiatric,1905
+2024-07,Radiology,1946
+2024-07,Reconstructive,1952
+2024-07,Renal,1957
+2024-07,Reproductive - Female,1890
+2024-07,Reproductive - Male,1833
+2024-07,Respiratory,1954
+2024-07,Sleep Disorders,1890
+2024-07,Toxicology,1936
+2024-07,Trauma,1956
+2024-07,Urinary,1935
+2024-08,Addiction,1918
+2024-08,Allergy,1963
+2024-08,Autoimmune Disorders,2011
+2024-08,Cardiac Electrophysiology,1941
+2024-08,Cardiovascular,1899
+2024-08,Congenital,2006
+2024-08,Dermatology,1940
+2024-08,Endocrine,1984
+2024-08,Endoscopy,1977
+2024-08,Gastrointestinal,1911
+2024-08,Geriatrics,1966
+2024-08,Hematology,1937
+2024-08,Hepatic,1891
+2024-08,Immunology,1964
+2024-08,Infectious,1978
+2024-08,Metabolic Disorders,2064
+2024-08,Musculoskeletal,1983
+2024-08,Neurological,1980
+2024-08,Neuromuscular,1938
+2024-08,Obstetrics,1952
+2024-08,Occupational Health,1881
+2024-08,Oncology,1978
+2024-08,Ophthalmology,2025
+2024-08,Oral,1878
+2024-08,Otolaryngology,1958
+2024-08,Pain Management,1913
+2024-08,Palliative,1945
+2024-08,Pediatrics,1897
+2024-08,Preventive,1904
+2024-08,Psychiatric,1898
+2024-08,Radiology,2052
+2024-08,Reconstructive,1927
+2024-08,Renal,1938
+2024-08,Reproductive - Female,1859
+2024-08,Reproductive - Male,2076
+2024-08,Respiratory,1955
+2024-08,Sleep Disorders,1872
+2024-08,Toxicology,2024
+2024-08,Trauma,1922
+2024-08,Urinary,1918
+2024-09,Addiction,1889
+2024-09,Allergy,1908
+2024-09,Autoimmune Disorders,1985
+2024-09,Cardiac Electrophysiology,1897
+2024-09,Cardiovascular,1984
+2024-09,Congenital,1930
+2024-09,Dermatology,1868
+2024-09,Endocrine,1875
+2024-09,Endoscopy,1838
+2024-09,Gastrointestinal,1935
+2024-09,Geriatrics,1830
+2024-09,Hematology,1934
+2024-09,Hepatic,1895
+2024-09,Immunology,1881
+2024-09,Infectious,1883
+2024-09,Metabolic Disorders,1943
+2024-09,Musculoskeletal,1861
+2024-09,Neurological,1880
+2024-09,Neuromuscular,1855
+2024-09,Obstetrics,1988
+2024-09,Occupational Health,1894
+2024-09,Oncology,1926
+2024-09,Ophthalmology,1900
+2024-09,Oral,1955
+2024-09,Otolaryngology,1871
+2024-09,Pain Management,1946
+2024-09,Palliative,1887
+2024-09,Pediatrics,1907
+2024-09,Preventive,1917
+2024-09,Psychiatric,1920
+2024-09,Radiology,1935
+2024-09,Reconstructive,1851
+2024-09,Renal,1920
+2024-09,Reproductive - Female,1911
+2024-09,Reproductive - Male,1961
+2024-09,Respiratory,1909
+2024-09,Sleep Disorders,1854
+2024-09,Toxicology,1901
+2024-09,Trauma,1877
+2024-09,Urinary,1832
+2024-10,Addiction,1902
+2024-10,Allergy,1990
+2024-10,Autoimmune Disorders,1925
+2024-10,Cardiac Electrophysiology,1898
+2024-10,Cardiovascular,1987
+2024-10,Congenital,1908
+2024-10,Dermatology,1882
+2024-10,Endocrine,2022
+2024-10,Endoscopy,1945
+2024-10,Gastrointestinal,1877
+2024-10,Geriatrics,2004
+2024-10,Hematology,1924
+2024-10,Hepatic,1870
+2024-10,Immunology,1935
+2024-10,Infectious,1900
+2024-10,Metabolic Disorders,1921
+2024-10,Musculoskeletal,2024
+2024-10,Neurological,1895
+2024-10,Neuromuscular,1925
+2024-10,Obstetrics,1896
+2024-10,Occupational Health,1965
+2024-10,Oncology,1874
+2024-10,Ophthalmology,1862
+2024-10,Oral,1921
+2024-10,Otolaryngology,1936
+2024-10,Pain Management,1937
+2024-10,Palliative,1930
+2024-10,Pediatrics,1875
+2024-10,Preventive,1942
+2024-10,Psychiatric,1975
+2024-10,Radiology,2027
+2024-10,Reconstructive,1908
+2024-10,Renal,1955
+2024-10,Reproductive - Female,1900
+2024-10,Reproductive - Male,2064
+2024-10,Respiratory,1961
+2024-10,Sleep Disorders,1938
+2024-10,Toxicology,1926
+2024-10,Trauma,1864
+2024-10,Urinary,1853
+2024-11,Addiction,1904
+2024-11,Allergy,1878
+2024-11,Autoimmune Disorders,1891
+2024-11,Cardiac Electrophysiology,1862
+2024-11,Cardiovascular,1824
+2024-11,Congenital,1857
+2024-11,Dermatology,1849
+2024-11,Endocrine,1879
+2024-11,Endoscopy,1868
+2024-11,Gastrointestinal,1847
+2024-11,Geriatrics,1823
+2024-11,Hematology,1844
+2024-11,Hepatic,1882
+2024-11,Immunology,1837
+2024-11,Infectious,1862
+2024-11,Metabolic Disorders,1832
+2024-11,Musculoskeletal,1811
+2024-11,Neurological,1808
+2024-11,Neuromuscular,1835
+2024-11,Obstetrics,1872
+2024-11,Occupational Health,1927
+2024-11,Oncology,1850
+2024-11,Ophthalmology,1884
+2024-11,Oral,1899
+2024-11,Otolaryngology,1872
+2024-11,Pain Management,1927
+2024-11,Palliative,1898
+2024-11,Pediatrics,1919
+2024-11,Preventive,1838
+2024-11,Psychiatric,1825
+2024-11,Radiology,1780
+2024-11,Reconstructive,1907
+2024-11,Renal,1808
+2024-11,Reproductive - Female,1847
+2024-11,Reproductive - Male,1846
+2024-11,Respiratory,1904
+2024-11,Sleep Disorders,1801
+2024-11,Toxicology,1904
+2024-11,Trauma,1866
+2024-11,Urinary,1860
+2024-12,Addiction,2018
+2024-12,Allergy,2048
+2024-12,Autoimmune Disorders,1873
+2024-12,Cardiac Electrophysiology,1943
+2024-12,Cardiovascular,2017
+2024-12,Congenital,1984
+2024-12,Dermatology,1919
+2024-12,Endocrine,1925
+2024-12,Endoscopy,1975
+2024-12,Gastrointestinal,1958
+2024-12,Geriatrics,1993
+2024-12,Hematology,1978
+2024-12,Hepatic,2001
+2024-12,Immunology,1899
+2024-12,Infectious,1944
+2024-12,Metabolic Disorders,2017
+2024-12,Musculoskeletal,1898
+2024-12,Neurological,1911
+2024-12,Neuromuscular,1991
+2024-12,Obstetrics,1940
+2024-12,Occupational Health,1922
+2024-12,Oncology,1932
+2024-12,Ophthalmology,1966
+2024-12,Oral,1963
+2024-12,Otolaryngology,1983
+2024-12,Pain Management,1946
+2024-12,Palliative,1910
+2024-12,Pediatrics,1947
+2024-12,Preventive,1892
+2024-12,Psychiatric,1974
+2024-12,Radiology,1948
+2024-12,Reconstructive,1884
+2024-12,Renal,1941
+2024-12,Reproductive - Female,1927
+2024-12,Reproductive - Male,1959
+2024-12,Respiratory,1891
+2024-12,Sleep Disorders,1998
+2024-12,Toxicology,1958
+2024-12,Trauma,1915
+2024-12,Urinary,1939
+2025-01,Addiction,2012
+2025-01,Allergy,1980
+2025-01,Autoimmune Disorders,1951
+2025-01,Cardiac Electrophysiology,1940
+2025-01,Cardiovascular,1930
+2025-01,Congenital,1983
+2025-01,Dermatology,1968
+2025-01,Endocrine,2034
+2025-01,Endoscopy,1922
+2025-01,Gastrointestinal,1922
+2025-01,Geriatrics,1956
+2025-01,Hematology,1937
+2025-01,Hepatic,1923
+2025-01,Immunology,1880
+2025-01,Infectious,1969
+2025-01,Metabolic Disorders,1991
+2025-01,Musculoskeletal,1924
+2025-01,Neurological,1941
+2025-01,Neuromuscular,1872
+2025-01,Obstetrics,1970
+2025-01,Occupational Health,1991
+2025-01,Oncology,1999
+2025-01,Ophthalmology,1967
+2025-01,Oral,1951
+2025-01,Otolaryngology,1915
+2025-01,Pain Management,1992
+2025-01,Palliative,1935
+2025-01,Pediatrics,1962
+2025-01,Preventive,1951
+2025-01,Psychiatric,1930
+2025-01,Radiology,1949
+2025-01,Reconstructive,1961
+2025-01,Renal,1971
+2025-01,Reproductive - Female,1989
+2025-01,Reproductive - Male,1943
+2025-01,Respiratory,1950
+2025-01,Sleep Disorders,2045
+2025-01,Toxicology,1965
+2025-01,Trauma,2033
+2025-01,Urinary,1910
+2025-02,Addiction,1768
+2025-02,Allergy,1745
+2025-02,Autoimmune Disorders,1765
+2025-02,Cardiac Electrophysiology,1763
+2025-02,Cardiovascular,1773
+2025-02,Congenital,1843
+2025-02,Dermatology,1759
+2025-02,Endocrine,1819
+2025-02,Endoscopy,1637
+2025-02,Gastrointestinal,1765
+2025-02,Geriatrics,1719
+2025-02,Hematology,1742
+2025-02,Hepatic,1803
+2025-02,Immunology,1760
+2025-02,Infectious,1795
+2025-02,Metabolic Disorders,1656
+2025-02,Musculoskeletal,1762
+2025-02,Neurological,1774
+2025-02,Neuromuscular,1752
+2025-02,Obstetrics,1807
+2025-02,Occupational Health,1816
+2025-02,Oncology,1724
+2025-02,Ophthalmology,1774
+2025-02,Oral,1729
+2025-02,Otolaryngology,1734
+2025-02,Pain Management,1868
+2025-02,Palliative,1782
+2025-02,Pediatrics,1822
+2025-02,Preventive,1693
+2025-02,Psychiatric,1808
+2025-02,Radiology,1808
+2025-02,Reconstructive,1822
+2025-02,Renal,1794
+2025-02,Reproductive - Female,1670
+2025-02,Reproductive - Male,1782
+2025-02,Respiratory,1768
+2025-02,Sleep Disorders,1741
+2025-02,Toxicology,1801
+2025-02,Trauma,1776
+2025-02,Urinary,1869
+2025-03,Addiction,1983
+2025-03,Allergy,1997
+2025-03,Autoimmune Disorders,1988
+2025-03,Cardiac Electrophysiology,1976
+2025-03,Cardiovascular,1953
+2025-03,Congenital,1910
+2025-03,Dermatology,1861
+2025-03,Endocrine,1978
+2025-03,Endoscopy,1924
+2025-03,Gastrointestinal,1933
+2025-03,Geriatrics,1828
+2025-03,Hematology,1977
+2025-03,Hepatic,1905
+2025-03,Immunology,1952
+2025-03,Infectious,2011
+2025-03,Metabolic Disorders,1967
+2025-03,Musculoskeletal,1939
+2025-03,Neurological,1897
+2025-03,Neuromuscular,1932
+2025-03,Obstetrics,1986
+2025-03,Occupational Health,1939
+2025-03,Oncology,1954
+2025-03,Ophthalmology,1914
+2025-03,Oral,1931
+2025-03,Otolaryngology,1950
+2025-03,Pain Management,1972
+2025-03,Palliative,1897
+2025-03,Pediatrics,1925
+2025-03,Preventive,1938
+2025-03,Psychiatric,1934
+2025-03,Radiology,1991
+2025-03,Reconstructive,1895
+2025-03,Renal,1940
+2025-03,Reproductive - Female,1853
+2025-03,Reproductive - Male,1958
+2025-03,Respiratory,1901
+2025-03,Sleep Disorders,1984
+2025-03,Toxicology,1904
+2025-03,Trauma,1883
+2025-03,Urinary,2020
+2025-04,Addiction,1977
+2025-04,Allergy,1927
+2025-04,Autoimmune Disorders,1848
+2025-04,Cardiac Electrophysiology,1914
+2025-04,Cardiovascular,1903
+2025-04,Congenital,1924
+2025-04,Dermatology,1826
+2025-04,Endocrine,1807
+2025-04,Endoscopy,1858
+2025-04,Gastrointestinal,1849
+2025-04,Geriatrics,1928
+2025-04,Hematology,1870
+2025-04,Hepatic,1873
+2025-04,Immunology,1875
+2025-04,Infectious,1866
+2025-04,Metabolic Disorders,1853
+2025-04,Musculoskeletal,1840
+2025-04,Neurological,1888
+2025-04,Neuromuscular,1875
+2025-04,Obstetrics,1823
+2025-04,Occupational Health,1942
+2025-04,Oncology,1909
+2025-04,Ophthalmology,1851
+2025-04,Oral,1939
+2025-04,Otolaryngology,1780
+2025-04,Pain Management,1879
+2025-04,Palliative,1847
+2025-04,Pediatrics,1974
+2025-04,Preventive,1815
+2025-04,Psychiatric,1923
+2025-04,Radiology,1909
+2025-04,Reconstructive,1887
+2025-04,Renal,1788
+2025-04,Reproductive - Female,1913
+2025-04,Reproductive - Male,1905
+2025-04,Respiratory,1892
+2025-04,Sleep Disorders,1885
+2025-04,Toxicology,1831
+2025-04,Trauma,1833
+2025-04,Urinary,1911
+2025-05,Addiction,1973
+2025-05,Allergy,1930
+2025-05,Autoimmune Disorders,2011
+2025-05,Cardiac Electrophysiology,1973
+2025-05,Cardiovascular,2012
+2025-05,Congenital,2073
+2025-05,Dermatology,1980
+2025-05,Endocrine,2004
+2025-05,Endoscopy,1961
+2025-05,Gastrointestinal,2022
+2025-05,Geriatrics,1968
+2025-05,Hematology,1979
+2025-05,Hepatic,1973
+2025-05,Immunology,1966
+2025-05,Infectious,1851
+2025-05,Metabolic Disorders,1950
+2025-05,Musculoskeletal,1857
+2025-05,Neurological,2002
+2025-05,Neuromuscular,1980
+2025-05,Obstetrics,1946
+2025-05,Occupational Health,2012
+2025-05,Oncology,1997
+2025-05,Ophthalmology,2045
+2025-05,Oral,1969
+2025-05,Otolaryngology,2004
+2025-05,Pain Management,1961
+2025-05,Palliative,1973
+2025-05,Pediatrics,1992
+2025-05,Preventive,1951
+2025-05,Psychiatric,1956
+2025-05,Radiology,1998
+2025-05,Reconstructive,1982
+2025-05,Renal,1913
+2025-05,Reproductive - Female,1931
+2025-05,Reproductive - Male,2074
+2025-05,Respiratory,1982
+2025-05,Sleep Disorders,1969
+2025-05,Toxicology,1894
+2025-05,Trauma,1997
+2025-05,Urinary,1986
+2025-06,Addiction,1918
+2025-06,Allergy,1944
+2025-06,Autoimmune Disorders,1869
+2025-06,Cardiac Electrophysiology,1922
+2025-06,Cardiovascular,1836
+2025-06,Congenital,1939
+2025-06,Dermatology,1849
+2025-06,Endocrine,1955
+2025-06,Endoscopy,1881
+2025-06,Gastrointestinal,1884
+2025-06,Geriatrics,1857
+2025-06,Hematology,1986
+2025-06,Hepatic,1919
+2025-06,Immunology,1917
+2025-06,Infectious,2027
+2025-06,Metabolic Disorders,1916
+2025-06,Musculoskeletal,1865
+2025-06,Neurological,1949
+2025-06,Neuromuscular,1874
+2025-06,Obstetrics,1891
+2025-06,Occupational Health,1954
+2025-06,Oncology,1870
+2025-06,Ophthalmology,1915
+2025-06,Oral,1860
+2025-06,Otolaryngology,1949
+2025-06,Pain Management,1891
+2025-06,Palliative,1922
+2025-06,Pediatrics,1891
+2025-06,Preventive,1915
+2025-06,Psychiatric,1945
+2025-06,Radiology,2016
+2025-06,Reconstructive,1864
+2025-06,Renal,1887
+2025-06,Reproductive - Female,1906
+2025-06,Reproductive - Male,1953
+2025-06,Respiratory,1897
+2025-06,Sleep Disorders,1831
+2025-06,Toxicology,1914
+2025-06,Trauma,1929
+2025-06,Urinary,1981
+2025-07,Addiction,1869
+2025-07,Allergy,2055
+2025-07,Autoimmune Disorders,1981
+2025-07,Cardiac Electrophysiology,1939
+2025-07,Cardiovascular,1963
+2025-07,Congenital,1983
+2025-07,Dermatology,1911
+2025-07,Endocrine,2008
+2025-07,Endoscopy,1974
+2025-07,Gastrointestinal,1936
+2025-07,Geriatrics,2013
+2025-07,Hematology,2057
+2025-07,Hepatic,1993
+2025-07,Immunology,1943
+2025-07,Infectious,2004
+2025-07,Metabolic Disorders,1921
+2025-07,Musculoskeletal,1966
+2025-07,Neurological,1976
+2025-07,Neuromuscular,1937
+2025-07,Obstetrics,1912
+2025-07,Occupational Health,2015
+2025-07,Oncology,1987
+2025-07,Ophthalmology,1941
+2025-07,Oral,2006
+2025-07,Otolaryngology,2007
+2025-07,Pain Management,1973
+2025-07,Palliative,2021
+2025-07,Pediatrics,1915
+2025-07,Preventive,1977
+2025-07,Psychiatric,1969
+2025-07,Radiology,1936
+2025-07,Reconstructive,1997
+2025-07,Renal,1948
+2025-07,Reproductive - Female,1913
+2025-07,Reproductive - Male,1999
+2025-07,Respiratory,1940
+2025-07,Sleep Disorders,1943
+2025-07,Toxicology,1959
+2025-07,Trauma,1979
+2025-07,Urinary,2048
+2025-08,Addiction,1924
+2025-08,Allergy,1887
+2025-08,Autoimmune Disorders,1977
+2025-08,Cardiac Electrophysiology,1997
+2025-08,Cardiovascular,2012
+2025-08,Congenital,1991
+2025-08,Dermatology,1929
+2025-08,Endocrine,1962
+2025-08,Endoscopy,1912
+2025-08,Gastrointestinal,1975
+2025-08,Geriatrics,1954
+2025-08,Hematology,2038
+2025-08,Hepatic,1865
+2025-08,Immunology,1993
+2025-08,Infectious,2004
+2025-08,Metabolic Disorders,1984
+2025-08,Musculoskeletal,1944
+2025-08,Neurological,1909
+2025-08,Neuromuscular,1866
+2025-08,Obstetrics,1980
+2025-08,Occupational Health,1967
+2025-08,Oncology,1942
+2025-08,Ophthalmology,1932
+2025-08,Oral,1967
+2025-08,Otolaryngology,1932
+2025-08,Pain Management,1979
+2025-08,Palliative,1993
+2025-08,Pediatrics,1974
+2025-08,Preventive,1956
+2025-08,Psychiatric,2050
+2025-08,Radiology,1910
+2025-08,Reconstructive,1992
+2025-08,Renal,2022
+2025-08,Reproductive - Female,1989
+2025-08,Reproductive - Male,1916
+2025-08,Respiratory,1909
+2025-08,Sleep Disorders,1938
+2025-08,Toxicology,1939
+2025-08,Trauma,1885
+2025-08,Urinary,2071
+2025-09,Addiction,1628
+2025-09,Allergy,1693
+2025-09,Autoimmune Disorders,1745
+2025-09,Cardiac Electrophysiology,1716
+2025-09,Cardiovascular,1667
+2025-09,Congenital,1675
+2025-09,Dermatology,1649
+2025-09,Endocrine,1648
+2025-09,Endoscopy,1652
+2025-09,Gastrointestinal,1695
+2025-09,Geriatrics,1714
+2025-09,Hematology,1707
+2025-09,Hepatic,1721
+2025-09,Immunology,1677
+2025-09,Infectious,1732
+2025-09,Metabolic Disorders,1711
+2025-09,Musculoskeletal,1713
+2025-09,Neurological,1679
+2025-09,Neuromuscular,1638
+2025-09,Obstetrics,1782
+2025-09,Occupational Health,1666
+2025-09,Oncology,1651
+2025-09,Ophthalmology,1669
+2025-09,Oral,1735
+2025-09,Otolaryngology,1643
+2025-09,Pain Management,1702
+2025-09,Palliative,1675
+2025-09,Pediatrics,1727
+2025-09,Preventive,1685
+2025-09,Psychiatric,1758
+2025-09,Radiology,1754
+2025-09,Reconstructive,1676
+2025-09,Renal,1736
+2025-09,Reproductive - Female,1700
+2025-09,Reproductive - Male,1690
+2025-09,Respiratory,1623
+2025-09,Sleep Disorders,1753
+2025-09,Toxicology,1649
+2025-09,Trauma,1692
+2025-09,Urinary,1652

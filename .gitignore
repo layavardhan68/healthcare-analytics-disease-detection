@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Private anonymization key
+.privacy_salt
+
+# Healthcare datasets and patient-level records
+data/raw/
+data/processed/
+
+# Trained model files
+models/
+*.pkl
+*.joblib
+
+# Large patient-level predictions
+output/patient_clusters.csv
+output/disease_pattern_clusters.csv
+output/spark_patient_clusters/
+
+# Keep model evaluation results
+!output/*evaluation.csv
+
+# Temporary files
+*.log
+.DS_Store
+.ipynb_checkpoints/
+
+# Patient-level utilization data
+output/patient_utilization_groups.csv
+
+# Local infrastructure
+hadoop-conf/
+hadoop-data/
+hive-local/
+logs/
+*.out
+
+# Temporary Hive output
+output/disease_trends/000000_0
+output/disease_trends/.*.crc
