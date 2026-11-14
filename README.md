@@ -80,3 +80,37 @@ Activate the environment:
 ```bash
 source .venv/bin/activate
 streamlit run dashboard/app.py
+
+
+```
+
+## Visit Outcome Temporal Analysis
+
+- Analyzed monthly visit outcomes from January 2024 to September 2025.
+- Admitted visits increased to 93.7% in September 2025.
+- Added monthly outcome distribution visualization.
+
+## Classification Limitations
+
+Chronological evaluation:
+- Baseline accuracy: 15.63%
+- Historical Random Forest accuracy: 16.13%
+- Historical Random Forest Macro F1: 16.73%
+
+Classification results are exploratory, not clinical predictions. Models are not suitable for medical diagnosis or deployment.
+
+K-Means clusters represent statistical patient groups, not clinical risk categories.
+
+## Additional Dashboard Features
+
+- Monthly visit outcome distribution.
+- Temporal distribution shift visualization.
+- Classification confusion matrix.
+- Model performance comparison.
+- Patient utilization group analysis.
+
+## Project Limitations
+
+The source dataset is synthetic/training-oriented. Results should not be interpreted as real-world disease prevalence or clinical evidence.
+
+Patient-level records and sensitive identifiers are excluded from the public repository.

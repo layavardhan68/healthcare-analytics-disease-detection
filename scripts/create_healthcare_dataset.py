@@ -124,7 +124,7 @@ with open(OUT + "STG_EHP__DIAG.csv", newline="") as source:
 
             writer.writerow([
                 anonymize(visit["PAT_ID"]),
-                anonymize(diagnosis["REFR_NO"]+ "|" + diagnosis["DIG_EN]),
+                anonymize(diagnosis["REFR_NO"] + "|" + diagnosis["DIG_EN"]),
                 age,
                 group,
                 patient["gender"],

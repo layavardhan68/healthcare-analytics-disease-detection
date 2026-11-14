@@ -459,3 +459,49 @@ if confusion_file.exists():
         "Diagonal values represent correct predictions. "
         "Off-diagonal values represent incorrect predictions."
     )
+
+# Visit Outcome Distribution Shift
+st.header("Visit Outcome Distribution Shift")
+
+shift_file = OUTPUT / "visit_status_temporal_analysis.csv"
+
+if shift_file.exists():
+    shift = pd.read_csv(shift_file)
+
+    percentage_columns = [
+        "Admitted_percent",
+        "Discharged_percent",
+        "Need Follow-Up_percent"
+    ]
+
+    shift_chart = px.line(
+        shift,
+        x="month",
+        y=percentage_columns,
+        markers=True,
+        title="Monthly Visit Outcome Distribution",
+        labels={
+            "month": "Month",
+            "value": "Percentage of Visits",
+            "variable": "Visit Outcome"
+        }
+    )
+
+    shift_chart.update_layout(yaxis_ticksuffix="%")
+    st.plotly_chart(shift_chart, use_container_width=True)
+
+    st.subheader("Monthly Outcome Data")
+    st.dataframe(shift, use_container_width=True)
+
+    st.warning(
+        "Significant temporal distribution shift detected. Admitted visits "
+        "increase from approximately 0% in early 2024 to 93.7% in September "
+        "2025. This affects classification performance and limits the "
+        "reliability of predictions on future records."
+    )
+
+else:
+    st.warning(
+        "Temporal analysis file not found. Run "
+        "scripts/analyze_visit_status_shift.py first."
+    )
